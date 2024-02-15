@@ -21,10 +21,12 @@ Olá! Eu sou Rodrigo Asafh, um profissional com 12 anos de experiência em supor
 Análise de Desenvolvimento de Sistemas - UNESA🎓
 
 ## Conheça 🌐
-[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodrigoasafh/) 
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rodrigoasafh/) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UmDevDesempregado) 
 [![Instagram](https://img.shields.io/badge/instagram-%23DF683D?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/umdevdesempregado/) 
-[![Static Badge](https://img.shields.io/badge/Curriculo-black?style=for-the-badge&logo=google%20drive)](https://drive.google.com/uc?export=download&id=1oMeMxmJwdDIIcg-e1cCDJDRh83Uh3_1R)
+[![Curriculo](https://img.shields.io/badge/Curriculo-black?style=for-the-badge&logo=google%20drive)](https://drive.google.com/uc?export=download&id=1oMeMxmJwdDIIcg-e1cCDJDRh83Uh3_1R) 
+[![Galeria](https://img.shields.io/badge/Galeria%20de%20Certificados-%23013243?style=for-the-badge&logo=Google%20Photos&logoColor=white)](https://drive.google.com/drive/folders/1xLWiXPIXju7-Aesnj9-rG8kn54f89Q2Y?usp=sharing)
+
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rasafhdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
