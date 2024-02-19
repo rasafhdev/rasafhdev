@@ -11,7 +11,7 @@
 ## Sobre mim:
 Olá! Eu sou Rodrigo Asafh, um profissional com 12 anos de experiência em suporte técnico<br>atualmente explorando novas oportunidades e pronto para uma migração de carreira.<br>
 
-## Buscando Oportnidades em:
+## Buscando Oportunidades em:
 * Desenvolvimento Python 🐍
 * Análise BI 📈
 * Análise de Dados 📊
