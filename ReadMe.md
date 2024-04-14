@@ -22,7 +22,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 </div>
 
 
-#### Social
+<h4></h4>
 
 <!-- INICIO REDES SOCIAIS -->
 <p align='left'>
@@ -31,7 +31,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
   <a href="https://www.youtube.com/@rasafh"></a>
     <img alt="Static Badge" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white">
   <a href="https://drive.google.com/uc?export=download&id=1Mso61ifAHF-zZYNrYBvxWq_L6eFJHMaW">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Drive%20-%20black?style=for-the-badge&logo=Google%20Drive&label=Curr%C3%ADculo&labelColor=black"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Meu%20Curr%C3%ADculo%20-%20black?style=for-the-badge&logo=Google%20Drive&labelColor=black&cacheSeconds=Curriculo"></a>
 
 </p>
 
