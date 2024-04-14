@@ -2,7 +2,7 @@
   
   ![Design sem nome](https://github.com/rasafhdev/rasafhdev/assets/139464196/dbd4356b-4bd9-4971-8283-b9cb55c427c4)
 
-  <code><strong>R. Asafh</stong></code></br>
+  <code><strong>Rodrigo Asafh</stong></code></br>
   <code>Desenvolvedor de Software | Fullstack | Data Analyst</code>
 
 </div>
