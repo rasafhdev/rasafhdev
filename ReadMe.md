@@ -1,6 +1,6 @@
+<h1>AINDA EM CONTRUÇÃO</h1>
 
-
-<h3><strong>Rodrigo Asafh</stong></h3></code>
+<h1><strong>🕎 Rodrigo Asafh</stong></h1></code>
 <code>Desenvolvedor de Software | Fullstack | Data Analyst</code>
 
 <br/>
@@ -32,11 +32,22 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 </p>
 <!-- FIM REDES SOCIAIS -->
 
----
 
-#### 🧰 Languages and Tools
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
+<img align="left" alt="HMTL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+<img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<br>
+
 
 
 <details>
 <summary><h4>Você sabia...?<h4></summary>
-  Em contrução
+Em contrução
