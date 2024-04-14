@@ -32,6 +32,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 </p>
 <!-- FIM REDES SOCIAIS -->
 
+---
 
 ### 🧰 Languages and Tools
 
