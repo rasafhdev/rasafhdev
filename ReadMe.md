@@ -41,9 +41,10 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <img align="left" alt="HMTL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
 <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png
+"/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
+<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"/>
 <img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
 <br>
 
