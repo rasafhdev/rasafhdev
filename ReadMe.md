@@ -4,9 +4,12 @@
 
   <code><strong>R. Asafh</stong></code></br>
   <code>Desenvolvedor de Software | Fullstack | Data Analyst</code>
+
 </div>
 
+<p>
 Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades em prática através de projetos, que podem surgir simplesmente da minha cabeça, e também para resolução de exercícios dos cursos que faço. Tenho 10 anos de experiência profissional em Suporte Técnico, atendendo usuários nos mais variados ambientes e niveis, e 2.5 anos como Analista de Serviços, com foco na Sustentação de Sistemas e suas complexidades. Perdi meu emprego em outubro de 2023 e, com isto, venho focado em oportunidades como:
+</p>
 
 <div>
   <ul>
@@ -21,14 +24,20 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 
 #### Social
 
-![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&cacheSeconds=linkedin.com%2Fin%2Frodrigoasafh)
+<!-- INICIO REDES SOCIAIS -->
+<p align='left'>
+  <a href="https://www.linkedin.com/in/rodrigoasafh">
+    <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&link=linkedin.com%2Fin%2Frodrigoasafh"/></a>
+  <a href="https://www.youtube.com/@rasafh"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://drive.google.com/uc?export=download&id=1Mso61ifAHF-zZYNrYBvxWq_L6eFJHMaW">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Drive%20-%20black?style=for-the-badge&logo=Google%20Drive&label=Curr%C3%ADculo&labelColor=black"></a>
 
-
+</p>
 
 ---
 
 ### 🧰 Languages and Tools
-
 
 
 <div align="center">
