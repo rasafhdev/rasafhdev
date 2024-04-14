@@ -8,14 +8,27 @@
 
 Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades em prática através de projetos, que podem surgir simplesmente da minha cabeça, e também para resolução de exercícios dos cursos que faço. Tenho 10 anos de experiência profissional em Suporte Técnico, atendendo usuários nos mais variados ambientes e niveis, e 2.5 anos como Analista de Serviços, com foco na Sustentação de Sistemas e suas complexidades. Perdi meu emprego em outubro de 2023 e, com isto, venho focado em oportunidades como:
 
-`Desenvolvedor Python`</br>
-`Desenvolvedor PHP`</br>
-`Analista de Dados (BI)`</br>
-`Administrador de Banco de Dados`</br>
-`Sustentação de Sistemas (com interesse em realocação)`
+<div>
+  <ul>
+    <li><code>Desenvolvedor Python</code></li>
+    <li><code>Desenvolvedor PHP</code></li>
+    <li><code>Analista de Dados</code></li>
+    <li><code>Administrador de Banco de Dados</code></li>
+    <li><code>Sustentação de Sistemas (Realocação)</code></li>
+  </ul>
+</div>
+
+
+#### Social
+
+![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&cacheSeconds=linkedin.com%2Fin%2Frodrigoasafh)
+
+
 
 ---
+
 ### 🧰 Languages and Tools
+
 
 
 <div align="center">
