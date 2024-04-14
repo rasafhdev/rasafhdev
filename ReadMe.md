@@ -46,10 +46,4 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
 <img align="left" alt="" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"/>
 <img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
-<br>
 
-
-
-<details>
-<summary><h4>Você sabia...?<h4></summary>
-Em contrução
