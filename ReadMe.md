@@ -56,7 +56,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <!-- Fim Dev Web -->
 
 <!-- Inicio Databases e Bigdata -->
-
+<img align="left" alt="KIBANA" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kibana.svg"/>
 <img align="left" alt="POSTGRESQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
 <img align="left" alt="ORACLE" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"/>
