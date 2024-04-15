@@ -67,7 +67,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <!-- Fim Versionamento e Conteiners -->
 
 <!-- Inicio Frameworks -->
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
+<img align="left" alt="JUPYTERNOTEBOOK" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
 <!-- Fim Framewoks -->
 
 
