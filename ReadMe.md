@@ -1,5 +1,3 @@
-<h1>AINDA EM CONTRUÇÃO</h1>
-
 <h1><strong>🕎 Rodrigo Asafh</stong></h1></code>
 <code>Desenvolvedor de Software | Fullstack | Data Analyst</code>
 
