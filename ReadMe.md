@@ -68,15 +68,13 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
   <!-- Fim Versionamento e Conteiners -->
   
   <!-- Inicio Frameworks -->
-  <img align="left" alt="JUPYTERNOTEBOOK" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
+  <img align="left" alt="JUPYTERNOTEBOOK" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/><br>
   <!-- Fim Framewoks -->
-  
-  <!-- Inicio Sistemas Operacionais -->
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png"/>
-  <br>
   </p>
 </div>
 
+ <!-- Inicio Sistemas Operacionais -->
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
 <!-- Fim Sistemas Operacionais -->
 
