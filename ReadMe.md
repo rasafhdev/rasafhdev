@@ -38,8 +38,6 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 
 ### 🧰 Languages and Tools
 
-<!-- Cada div são 16 itens -->
-
 
 <!-- Inicio Python e libs-->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
@@ -58,6 +56,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <!-- Fim Dev Web -->
 
 <!-- Inicio Databases e Bigdata -->
+<img align="left" alt="POWERBI" width="23px" style="padding-right:10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>
 <img align="left" alt="KIBANA" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kibana.svg"/>
 <img align="left" alt="POSTGRESQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
@@ -72,7 +71,6 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <img align="left" alt="JUPYTERNOTEBOOK" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/><br>
 <!-- Fim Framewoks -->
 
-
  <!-- Inicio Sistemas Operacionais -->
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
@@ -80,6 +78,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 
 <!--
 Para usar quando aprender novas Stacks
+https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg
 <img align="left" alt="" width="30px" style="padding-right:10px;" src=""/>
 -->
 
