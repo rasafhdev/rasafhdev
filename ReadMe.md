@@ -39,20 +39,26 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 ### 🧰 Languages and Tools
 
 <!-- Inicio Python e libs-->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
-
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"/>
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/288276?s=48&v=4"/>
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/215947?s=48&v=4"/>
-<img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/>
-<img align="left" alt="Dotenv" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg"/>
+<div>
+  <p>
+    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+    <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"/>
+    <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/288276?s=48&v=4"/>
+    <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/215947?s=48&v=4"/>
+    <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/>
+    <img align="left" alt="Dotenv" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg"/>
+    <br>
+  </p>
+</div>
 <!-- Fim Python e libs -->
 
+<div>
 <!-- Inicio Dev Web -->
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
-<img align="left" alt="JAVASCRIPT" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-<img align="left" alt="HMTL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+  <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
+  <img align="left" alt="JAVASCRIPT" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+  <img align="left" alt="HMTL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+  <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+</div>
 <!-- Fim Dev Web -->
 
 <!-- Inicio Databases e Bigdata -->
