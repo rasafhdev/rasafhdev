@@ -28,9 +28,13 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
   
   <a href="https://www.youtube.com/@rasafhdev">
     <img alt="Static Badge" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+  <a href="https://www.instagram.com/rasafhdev">
+    <img <img alt="Static Badge" src="https://img.shields.io/badge/Instragram%20-%20%235B51D8?style=for-the-badge&logo=instagram"></a>
   
   <a href="https://drive.google.com/uc?export=download&id=1Mso61ifAHF-zZYNrYBvxWq_L6eFJHMaW">
     <img alt="Static Badge" src="https://img.shields.io/badge/Meu%20Curr%C3%ADculo%20-%20black?style=for-the-badge&logo=Google%20Drive&labelColor=black&cacheSeconds=Curriculo"></a>
+
 </p>
 <!-- FIM REDES SOCIAIS -->
 
@@ -75,6 +79,9 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
 <!-- Fim Sistemas Operacionais -->
+
+<details>
+
 
 <!--
 Para usar quando aprender novas Stacks
