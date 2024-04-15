@@ -1,4 +1,4 @@
-<h1><strong>🕎 Rodrigo Asafh</stong></h1></code>
+<h1 align="center"><strong>🕎 Rodrigo Asafh</stong></h1></code>
 <code>Desenvolvedor de Software | Fullstack | Data Analyst</code>
 
 <br/>
