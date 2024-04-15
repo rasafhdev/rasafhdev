@@ -78,7 +78,8 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
 <!-- Fim Sistemas Operacionais -->
 
-<details>
+
+<br><details>
 
 
 <!--
