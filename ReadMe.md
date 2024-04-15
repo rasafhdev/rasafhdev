@@ -38,49 +38,46 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 
 ### 🧰 Languages and Tools
 
-<!-- Inicio Python e libs-->
 <div>
   <p>
-    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
-    <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"/>
-    <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/288276?s=48&v=4"/>
-    <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/215947?s=48&v=4"/>
-    <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/>
-    <img align="left" alt="Dotenv" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg"/>
-    <br>
-  </p>
-</div>
-<!-- Fim Python e libs -->
-
-<div>
-<!-- Inicio Dev Web -->
+  <!-- Inicio Python e libs-->
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+  <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"/>
+  <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/288276?s=48&v=4"/>
+  <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/215947?s=48&v=4"/>
+  <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/>
+  <img align="left" alt="Dotenv" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg"/>
+  <!-- Fim Python e libs -->
+  
+  <!-- Inicio Dev Web -->
   <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"/>
   <img align="left" alt="JAVASCRIPT" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
   <img align="left" alt="HMTL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
   <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+  <!-- Fim Dev Web -->
+  
+  <!-- Inicio Databases e Bigdata -->
+  <img align="left" alt="KIBANA" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kibana.svg"/>
+  <img align="left" alt="POSTGRESQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
+  <img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
+  <img align="left" alt="ORACLE" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"/>
+  <!-- Fim DataBases e Bigdata -->
+  
+  <!-- Inicio Versionamento e Conteiners -->
+  <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+  <!-- Fim Versionamento e Conteiners -->
+  
+  <!-- Inicio Frameworks -->
+  <img align="left" alt="JUPYTERNOTEBOOK" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
+  <!-- Fim Framewoks -->
+  
+  <!-- Inicio Sistemas Operacionais -->
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png"/>
+  </br>
+  </p>
 </div>
-<!-- Fim Dev Web -->
 
-<!-- Inicio Databases e Bigdata -->
-<img align="left" alt="KIBANA" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kibana.svg"/>
-<img align="left" alt="POSTGRESQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
-<img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
-<img align="left" alt="ORACLE" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"/>
-<!-- Fim DataBases e Bigdata -->
-
-<!-- Inicio Versionamento e Conteiners -->
-<img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-<!-- Fim Versionamento e Conteiners -->
-
-<!-- Inicio Frameworks -->
-<img align="left" alt="JUPYTERNOTEBOOK" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
-<!-- Fim Framewoks -->
-
-
-<!-- Inicio Sistemas Operacionais -->
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa.png"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"/>
-
 <!-- Fim Sistemas Operacionais -->
 
 <!--
