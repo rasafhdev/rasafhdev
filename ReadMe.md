@@ -10,7 +10,7 @@ Sou um desenvolvedor que busca evoluir todos os dias. Coloco minhas habilidades 
 <div>
   <ul>
     <li><code>Desenvolvedor Python</code></li>
-    <li><code>Desenvolvedor PHP</code></li>
+    <li><code>Desenvolvedor RPA</code></li>
     <li><code>Analista de Dados (BI)</code></li>
     <li><code>Administrador de Banco de Dados</code></li>
     <li><code>Sustentação de Sistemas (Realocação)</code></li>
